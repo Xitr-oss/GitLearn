@@ -1,2 +1,3 @@
 # GitLearn
-This is example of conflict by rahul
+this is an example of merge nconflict
+
